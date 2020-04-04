@@ -10,14 +10,7 @@ Python3 or higher
  -  If random generated private key and its balance is bigger than 0 it also writes it on the dat.txt
  -  Writes all grabbed data on a csv file including random generated private keys and their balances
 
-Give it a STAR
 
-Any tips appreciated
- 
-BTC 17desBvzt7jhmUbq8NgB15qHpJMoGEabTo
+if you like give it a STAR
 
-ETH 0x8bDd21804B9d70052E2f1e46D3618302f07976C3
 
-XRP raXt42meREz9EQbfYugcViH2bvEAuc5QJx
-
-NEO AYv1hQGxg9SZTXjoqaU8LsrjMtUfsC32Vo
